@@ -1,0 +1,22 @@
+/* .bg-dark {
+    background-color: "#069c40"!important;
+} */
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
+    font-size: 18px;
+}
+
+.nav-item {
+    display: block;
+    color: rgba(255,255,255,.5);
+    padding: .5rem 1rem;
+    font-size: 18px;
+}
+
+.nav-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.25);
+    color: #fff;
+    cursor: pointer;
+  }
